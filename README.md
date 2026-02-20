@@ -1,4 +1,4 @@
-# 👋 👾 Hola, soy Georgica Florian Grigore 👾
+# 👾 Hola, soy Georgica Florian Grigore 👾
 
 Soy [**Alumno de Secundaria**](https://www.iesluisvives.es/) en el Grado Superior de Desarollo de Aplicaciones Web [DAW](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html), futuro full stack developer.💻
 
