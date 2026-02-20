@@ -10,9 +10,12 @@ A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasioð
 <p align="center">
   Si quieres hablar de cualquier topico no dudes en contactarme ðŸ’¬.
 </p>
+<p align="center">
     <a href="[https://github.com/FlorianGrig]" target="_blank">
+      <img loading="lazy" src="[D:\LOGOS\logo-github.png](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)" 
+    height="40">
     </a>&nbsp;
-
+</p>
 <!--
 Here are some ideas to get you started:
 
