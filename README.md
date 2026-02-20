@@ -6,15 +6,15 @@ Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
 
+diff
+# Aun soy estudiando pero he usado algunas de las herramientas para el desarollo de aplicacion y creacion de paginas web. 
 
-A very <span style='color: red;'>long</span> sentence.
-
-
-| Herramientas que manejo|
+| Herramientas usadas    |
 |:----------------------:|
 | Rider                  |
 | IntelliJ               |
 | Visual Studio Code     |
+|Oracle Virtual Box      |
 
 
 <h2 align="center">📫 Contacto</h2>
