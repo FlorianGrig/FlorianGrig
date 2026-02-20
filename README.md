@@ -22,7 +22,7 @@ A very <span style='color: red;'>long</span> sentence.
   Si quieres hablar de cualquier topico no dudes en contactarme 💬.
 </p>
 <p align="center">
-    <a href="https://github.com/FlorianGrig">
+    <a href="https://github.com/FlorianGrig" target="_blank">
       <img loading="lazy" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" 
     height="40">
     </a>&nbsp;
