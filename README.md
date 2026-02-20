@@ -15,6 +15,10 @@ A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasioð
       <img loading="lazy" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" 
     height="40">
     </a>&nbsp;
+   <a href="https://www.linkedin.com/in/george-grigore-a1b7701a2/" target="_blank">
+        <img loading="lazy" src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png" 
+    height="40">
+    </a>&nbsp;
 </p>
 
 <!--
