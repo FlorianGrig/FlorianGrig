@@ -7,7 +7,6 @@ Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles.
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
 
 
-
 A very <span style='color: red;'>long</span> sentence.
 
 
@@ -23,7 +22,7 @@ A very <span style='color: red;'>long</span> sentence.
   Si quieres hablar de cualquier topico no dudes en contactarme 💬.
 </p>
 <p align="center">
-    <a href="https://github.com/FlorianGrig" target="_blank">
+    <a href="https://github.com/FlorianGrig">
       <img loading="lazy" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" 
     height="40">
     </a>&nbsp;
