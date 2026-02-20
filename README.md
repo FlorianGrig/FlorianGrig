@@ -6,7 +6,7 @@ Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
 
-<font color="#59FC22">Herammientas que manejo</font>
+<font color="#00FF00">Herammientas que manejo:</font>
 
 | Programacion      |
 |:-----------------:|
