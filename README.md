@@ -11,10 +11,10 @@ A very <span style='color: red;'>long</span> sentence.
 
 
 | Herramientas que manejo|
-|:-------------------------------:|
-| Rider             |MariaDB      | 
-| IntelliJ          |
-| Visual Studio Code|
+|:----------------------:|
+| Rider                  |
+| IntelliJ               |
+| Visual Studio Code     |
 
 
 <h2 align="center">📫 Contacto</h2>
