@@ -10,9 +10,9 @@ A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasioð
 A very <span style='color: red;'>long</span> sentence.
 
 
-| Programacion      |
-|:-----------------:|
-| Rider             |
+| Herramientas que manejo|
+|:-------------------------------:|
+| Rider             |MariaDB      | 
 | IntelliJ          |
 | Visual Studio Code|
 
