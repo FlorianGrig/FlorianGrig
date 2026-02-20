@@ -8,6 +8,7 @@ A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio�
 
 <span style="color:#00FF00">Herramientas que manejo:</span>
 <font color="blue">Este texto debería ser azul.</font>
+<p style="color:blue">Este texto debería ser azul.</p>
 
 
 | Programacion      |
