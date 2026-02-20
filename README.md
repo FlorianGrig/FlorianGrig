@@ -8,14 +8,14 @@ A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio�
 
 ```diff
 + Estas son algunas de las herramientas basicas para el desarollo que manejo:
-
+```
 | Herramientas usadas    |
 |:----------------------:|
 | Rider                  |
 | IntelliJ               |
 | Visual Studio Code     |
 |Oracle Virtual Box      |
-```
+
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
   Si quieres hablar de cualquier topico no dudes en contactarme 💬.
