@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://github.com/FlorianGrig" target="_blank">
     <img loading="lazy" style="border-radius: 0.25rem;" 
       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.9gNbIKoKnIETaQUiSTt31QHaDt%3Fpid%3DApi&f=1&ipt=2598fe9b2bcd97bafd6a9103c88963669fefcdadb0881e7fc799144b217889b4&ipo=images" 
       alt="Logo" 
-      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
-  </a>
+      borderRadius='1rem' boxShadow = '0 5px 15px rgba(0,0,0,0.3)'>
 </p>
 
 # 👾 Hola, soy Georgica Florian Grigore 👾
