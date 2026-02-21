@@ -1,13 +1,8 @@
 # 👾 Hola, soy Georgica Florian Grigore 👾
 
 Soy [**Alumno de Secundaria**](https://www.iesluisvives.es/) en el Grado Superior de Desarollo de Aplicaciones Web [DAW](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html), futuro full stack developer.💻
-<p align="center">
-    <img loading="lazy" style="border-radius: 0.10rem;" 
-      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.9gNbIKoKnIETaQUiSTt31QHaDt%3Fpid%3DApi&f=1&ipt=2598fe9b2bcd97bafd6a9103c88963669fefcdadb0881e7fc799144b217889b4&ipo=images" 
-      alt="Logo" 
-      borderRadius='1rem' boxShadow = '0 5px 2px rgba(0,0,0,0.3)'>
-</p>
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.9gNbIKoKnIETaQUiSTt31QHaDt%3Fpid%3DApi&f=1&ipt=2598fe9b2bcd97bafd6a9103c88963669fefcdadb0881e7fc799144b217889b4&ipo=images") width=15% align=right />
 Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles. Asi como el diseño 3D y la creacion de videojuegos 🗿.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
