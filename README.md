@@ -2,7 +2,7 @@
 
 Soy [**Alumno de Secundaria**](https://www.iesluisvives.es/) en el Grado Superior de Desarollo de Aplicaciones Web [DAW](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-web.html), futuro full stack developer.💻
 
-<img src=".LOGOS\t-rex.png" width=15% align=right />
+<img src="LOGOS/t-rex.png" width=15% align=right />
 Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles. Asi como el diseño 3D y la creacion de videojuegos 🗿.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
