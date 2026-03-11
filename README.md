@@ -7,13 +7,6 @@ Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
 
-# Encabezado nivel 1
-## Encabezado nivel 2
-### Encabezado nivel 3
-#### Encabezado nivel 4
-##### Encabezado nivel 5
-###### Encabezado nivel 6
-
 ```diff
 + Estas son algunas de las herramientas basicas para el desarollo que manejo:
 ```
