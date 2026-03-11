@@ -7,16 +7,22 @@ Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
 
-- Elemento 1
-- Elemento 2
-  - Subelemento 2.1
-  - Subelemento 2.2
-- Elemento 3
+> **Cita:** Esto es una nota importante.
 
-- [x] Tarea completada
-- [ ] Tarea pendiente
-- [x] Otra tarea feita
+> [!NOTE]  
+> Esto es una nota importante.
 
+> [!TIP]
+> Esto es un consejo útil.
+
+> [!IMPORTANT]  
+> Esto es una advertencia crítica.
+
+> [!WARNING]  
+> Esto es un peligro potencial.
+
+> [!CAUTION]
+> Esto es una precaución importante.
 
 ```diff
 + Estas son algunas de las herramientas basicas para el desarollo que manejo:
