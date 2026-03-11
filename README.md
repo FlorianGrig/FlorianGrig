@@ -7,26 +7,9 @@ Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
 
-> **Cita:** Esto es una nota importante.
-
-> [!NOTE]  
-> Esto es una nota importante.
-
-> [!TIP]
-> Esto es un consejo útil.
-
 > [!IMPORTANT]  
-> Esto es una advertencia crítica.
+>Estas son algunas de las herramientas basicas para el desarollo que manejo:
 
-> [!WARNING]  
-> Esto es un peligro potencial.
-
-> [!CAUTION]
-> Esto es una precaución importante.
-
-```diff
-+ Estas son algunas de las herramientas basicas para el desarollo que manejo:
-```
 | Herramientas usadas    |
 |:----------------------:|
 | Rider                  |
