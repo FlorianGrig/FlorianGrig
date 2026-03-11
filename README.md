@@ -7,6 +7,17 @@ Estoy interesado en el desarollo de aplicaciones web, multiplataforma y moviles.
 
 A parte de mi pasion por la informatica tambien me gusta disfrutar del gimnasio💪, escuchar musica🎧, jugar videojuegos🎮, ver series, anime, peliculas🖥️, hacer manualidades🔨 y cocinar (sobre todo postres)😋.
 
+- Elemento 1
+- Elemento 2
+  - Subelemento 2.1
+  - Subelemento 2.2
+- Elemento 3
+
+- [x] Tarea completada
+- [ ] Tarea pendiente
+- [x] Otra tarea feita
+
+
 ```diff
 + Estas son algunas de las herramientas basicas para el desarollo que manejo:
 ```
